@@ -1,0 +1,43 @@
+{
+  "name": "Onion Ride",
+  "short_name": "Onionride",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#641dcc",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-JGTjsnIxUNQ/YEJUYJzG3bI/AAAAAAAAB_o/XusiCbTPATA7Sh8k45_0SqnPx0ufJ59AQCLcBGAsYHQ/s0/72.png",
+      "type": "image/png", "sizes": "72x72"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-s60JTbSZkns/YEJUeyDf8eI/AAAAAAAAB_s/tfE70L15pfwDA0tJse7QyHNPAYJPqEOzACLcBGAsYHQ/s0/96.png",
+      "type": "image/png", "sizes": "96x96"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-PB3TA6YE2Zk/YEJUke0p6cI/AAAAAAAAB_w/mSsHuPUSJX0SYyl9rx139rXAG7Xg-UFcQCLcBGAsYHQ/s0/128.png",
+      "type": "image/png","sizes": "128x128"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-auNlC5HKGlo/YEJUqYmRqxI/AAAAAAAAB_0/XAnZgRRMbyoGlsSGRpOoqK-sthbeVLuOgCLcBGAsYHQ/s0/144.png",
+      "type": "image/png", "sizes": "144x144"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-fCdCt65Z1A0/YEJUuhtMxGI/AAAAAAAAB_4/8g6SqUcSIOYU4nIjJcJdbakaeMiOzOaVwCLcBGAsYHQ/s0/152.png",
+      "type": "image/png", "sizes": "152x152"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-PI6ebqoiKGc/YEJU0PCSHPI/AAAAAAAAB_8/MNeqNm4LOosOiW_3RWZ3bav-GbcW_OrSgCLcBGAsYHQ/s0/192.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-RJMFG3lJgQI/YEJU40Tf9vI/AAAAAAAACAA/AM7W64sK-jI64QAM7w6SzvOzjx4jlfzEgCLcBGAsYHQ/s320/384.png",
+      "type": "image/png", "sizes": "384x384"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-05f0eDxcf4U/YCkxOAgG5aI/AAAAAAAAB7g/McIojTrF1EM-ivD4gSP1qHvu9rsiK3tlgCLcBGAsYHQ/s320/512.png",
+      "type": "image/png", "sizes": "512x512"
+    }
+  ]
+}
