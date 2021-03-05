@@ -1,7 +1,7 @@
 {
   "name": "Onion Ride",
   "short_name": "Onionride",
-  "start_url": "index.html",
+  "start_url": "https://www.onionride.com",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#641dcc",
